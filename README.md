@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Penny411600132/Penny411600132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Penny411600132/Introduction-to-Computers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
